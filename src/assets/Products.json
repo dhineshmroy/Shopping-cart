@@ -1,0 +1,92 @@
+[
+  {
+    "id": 89,
+    "name": "Farmers Pick",
+    "amount": "1085",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "https://www.app.tutorjoes.in/public/img/food/89.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 124,
+    "name": "Paper Roast Dosa",
+    "amount": "300",
+    "shop": "Soorya",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/public/img/food/124.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 26,
+    "name": "Alfredo Pasta",
+    "amount": "600",
+    "shop": "Lakshi food",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/public/img/food/26.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 9,
+    "name": "Chicken 65",
+    "amount": "500",
+    "shop": "Colombo RR Briyani",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/public/img/food/9.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 80,
+    "name": "Momo Mia Meal",
+    "amount": "700",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "https://www.app.tutorjoes.in/public/img/food/80.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 28,
+    "name": "Orange Juice",
+    "amount": "200",
+    "shop": "Juice Mall",
+    "ftype": "Juice",
+    "pic": "https://www.app.tutorjoes.in/public/img/food/28.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 67,
+    "name": "Milk Halwa",
+    "amount": "150",
+    "shop": "Bombe Sweet",
+    "ftype": "Sweet",
+    "pic": "https://www.app.tutorjoes.in/public/img/food/67.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 120,
+    "name": "Vegitable Soup",
+    "amount": "300",
+    "shop": "Lakshi food",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/public/img/food/120.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 20,
+    "name": "Hyderabad Chicken Dry",
+    "amount": "800",
+    "shop": "Lakshi food",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/public/img/food/20.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 133,
+    "name": "Spicy Chicken Afghani",
+    "amount": "1050",
+    "shop": "Tandoori wala",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/public/img/food/133.jpg",
+    "latest": "No"
+  }
+]
